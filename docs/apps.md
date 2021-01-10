@@ -7,6 +7,11 @@
 1. [Top 5 best Car GPS tracker of 2020](https://www.youtube.com/watch?v=AWYgWer_7pg)
 1. [5 Best Car GPS Tracker No Monthly Fee](https://www.youtube.com/watch?v=d9dOAp0zWts)
 
+
+### iTrail GPS Logger
+
+1. [The Original iTrail GPS Logger](https://www.myitrail.com/product/small-gps-logger-extended-battery/4/)
+
 ### My Tracks
 
 1. [Home page](https://www.mytracks4mac.info/index.php/en/)
