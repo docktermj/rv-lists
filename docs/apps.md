@@ -26,3 +26,4 @@
 ### Notes
 
 1. Looking for a "passive logger"
+1. Possibily VMware/Parallels on Mac then usie iTrail GPS Logger
