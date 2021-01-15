@@ -10,3 +10,4 @@
 ## Connectivity
 
 1. [Mobile Internet Resource Center](https://www.rvmobileinternet.com/)
+1. [WiFiConnect, Inc](https://www.stayconnectedinc.net/)
