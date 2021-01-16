@@ -25,3 +25,9 @@
         1. [03:44](https://youtu.be/joecuvHwf7Q?t=224) - #18 Blankenship Bridge: Glacier National Park, Montana
         1. [02:24](https://youtu.be/joecuvHwf7Q?t=144) - #19 Naval Observatory Road: Flagstaff, Arizona
         1. [01:03](https://youtu.be/joecuvHwf7Q?t=63)  - #20 Visitor Center: Natchez, Mississippi
+
+
+## Channels
+
+1. [1StrangeAdventure](https://www.youtube.com/channel/UCrqRwbBkAYO7Lh-EIdzJJ3A)
+1. [Less Junk, More Journey](https://www.youtube.com/channel/UC2IENUorXc6kRtIiAGPRKZA)
