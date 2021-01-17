@@ -8,6 +8,6 @@
 1. Water
     1. :black_square_button: Drinking water hose
     1. :black_square_button: Water pressure regulator
-    1. ![check](img/checkbox-25x13.png) Test
+    1. ![check](img/checkbox.png) Test
     1. :black_square_button: Burkey
 
