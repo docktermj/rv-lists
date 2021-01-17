@@ -16,16 +16,19 @@
 1. **Driving**
     1. ![check](img/checkbox.png) - Sunpass Responder
     1. ![check](img/checkbox.png) - Thermaflasks & holder
-    1. ![check](img/checkbox.png) - TomTom GPS
+    1. ![check](img/checkbox.png) - TomTom GPS & USB charging cord
 
 1. **Electrical**
     1. ![check](img/checkbox.png) - 30A Surge protector
     1. ![check](img/checkbox.png) - Fan
     1. ![check](img/checkbox.png) - Jackery
     1. ![check](img/checkbox.png) - Jackery Solar panel
+    1. ![check](img/checkbox.png) - 6' AC/USB extention cord
 
 1. **Etc**
     1. ![check](img/checkbox.png) - Command Hooks and strips
+    1. ![check](img/checkbox.png) - Paper
+    1. ![check](img/checkbox.png) - Pens
     1. ![check](img/checkbox.png) - Quarters
 
 1. **Kitchen**
