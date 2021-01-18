@@ -20,10 +20,11 @@
 
 1. **Electrical**
     1. ![check](img/checkbox.png) - 30A Surge protector
+    1. ![check](img/checkbox.png) - 6' AC/USB extention cord
     1. ![check](img/checkbox.png) - Fan
     1. ![check](img/checkbox.png) - Jackery
     1. ![check](img/checkbox.png) - Jackery Solar panel
-    1. ![check](img/checkbox.png) - 6' AC/USB extention cord
+    1. ![check](img/checkbox.png) - Kill-a-Watt
 
 1. **Etc**
     1. ![check](img/checkbox.png) - Command Hooks and strips
