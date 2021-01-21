@@ -27,6 +27,7 @@
 ## Water pressure
 
 1. [Camco (40055) RV Brass Inline Water Pressure Regulator](https://www.amazon.com/Camco-Pressure-Regulator-High-Pressure-40055/dp/B003BZD08U)
+1. [Water pressure regulator](https://www.amazon.com/Camco-40058-Adjustable-Pressure-Regulator/dp/B01N9QUEYZ)
 
 ## Uncategorized
 
