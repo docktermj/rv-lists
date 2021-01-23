@@ -27,8 +27,8 @@
 ### Waze
 
 1. Download personal data
-  1. Visit [Waze dashboard](https://www.waze.com/dashboard)
-  1. Visit [Download your Waze data](https://www.waze.com/account/download_data)
+    1. Visit [Waze dashboard](https://www.waze.com/dashboard)
+    1. Visit [Download your Waze data](https://www.waze.com/account/download_data)
   
 ### Notes
 
