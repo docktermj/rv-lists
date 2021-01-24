@@ -21,7 +21,8 @@
 ### Land Air Sea Flashback GPS Logger
 
 1. [Home page](https://landairsea.com/)
-1. [Land Air Sea Flashback GPS Logger ](https://www.amazon.com/dp/B00Z89BSE0)
+1. [Land Air Sea Flashback GPS Logger](https://www.amazon.com/dp/B00Z89BSE0)
+1. [Land Air Sea Flashback GPS Logger](https://www.amazon.com/Land-Air-Sea-Flashback-Logger/dp/B00Z89BSE0)
 
 
 ### Waze
