@@ -26,6 +26,9 @@
         1. [02:24](https://youtu.be/joecuvHwf7Q?t=144) - #19 Naval Observatory Road: Flagstaff, Arizona
         1. [01:03](https://youtu.be/joecuvHwf7Q?t=63)  - #20 Visitor Center: Natchez, Mississippi
 
+## Fate Unbound channel
+
+1. [9 ESSENTIAL APPS for RVing and Travel - RV Life](https://www.youtube.com/watch?v=Cts49_y5cQU)
 
 ## Channels
 
