@@ -2,24 +2,18 @@
 
 ## iPhone App Store
 
-### Campsites
-
-1. [The Dyrt](https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329) - Tent and RV Camping
-
-### Connectivity
-
-1. [Weingard Connected](https://apps.apple.com/us/app/winegard-connected/id1331666670)
-1. [Winegard - TV Signal Finder](https://apps.apple.com/us/app/winegard-tv-signal-finder/id1273395282)
-1. [Winegard - HDTV Tower Finder](https://apps.apple.com/us/app/winegard-hdtv-tower-finder/id1353365122)
-
 ### Entertainment
 
-5. [NoCable: OTA Antenna, TV Guid‪e](https://apps.apple.com/us/app/nocable-ota-antenna-tv-guide/id1364575628)
+1. [NoCable: OTA Antenna, TV Guid‪e](https://apps.apple.com/us/app/nocable-ota-antenna-tv-guide/id1364575628)
+1. [White Noise](https://apps.apple.com/us/app/white-noise/id1447815848)
 
 ### RV
 
 1. [Bubble Level](https://apps.apple.com/us/app/bubble-level-for-iphone/id465613917)
-1. [White Noise](https://apps.apple.com/us/app/white-noise/id1447815848)
+1. [The Dyrt](https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329) - Tent and RV Camping
+1. [Weingard Connected](https://apps.apple.com/us/app/winegard-connected/id1331666670)
+1. [Winegard - TV Signal Finder](https://apps.apple.com/us/app/winegard-tv-signal-finder/id1273395282)
+1. [Winegard - HDTV Tower Finder](https://apps.apple.com/us/app/winegard-hdtv-tower-finder/id1353365122)
 
 ### Travel
 
