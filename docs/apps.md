@@ -4,31 +4,32 @@
 
 ### Entertainment
 
-1. [NoCable: OTA Antenna, TV Guid‪e](https://apps.apple.com/us/app/nocable-ota-antenna-tv-guide/id1364575628)
-1. [White Noise](https://apps.apple.com/us/app/white-noise/id1447815848)
+1. [NoCable: OTA Antenna, TV Guid‪e](https://apps.apple.com/us/app/nocable-ota-antenna-tv-guide/id1364575628) - Essentially TV Guide
+1. [White Noise](https://apps.apple.com/us/app/white-noise/id1447815848) - Noise Generator
 
 ## Experimental
 
-1. [Zip Code](https://apps.apple.com/us/app/zip-code/id920751129)
+1. [Zip Code](https://apps.apple.com/us/app/zip-code/id920751129) - Determine local Zip Code
 
 ### RV
 
-1. [Bubble Level](https://apps.apple.com/us/app/bubble-level-for-iphone/id465613917)
+1. [Bubble Level](https://apps.apple.com/us/app/bubble-level-for-iphone/id465613917) - Determine if RV is level
 1. [The Dyrt](https://apps.apple.com/us/app/the-dyrt-tent-rv-camping/id1187626329) - Tent and RV Camping
-1. [Weingard Connected](https://apps.apple.com/us/app/winegard-connected/id1331666670)
+1. [Weingard Connected](https://apps.apple.com/us/app/winegard-connected/id1331666670) - Interface to Winegard Connect
 1. [Winegard - TV Signal Finder](https://apps.apple.com/us/app/winegard-tv-signal-finder/id1273395282)
 1. [Winegard - HDTV Tower Finder](https://apps.apple.com/us/app/winegard-hdtv-tower-finder/id1353365122)
 
 ### Travel
 
 1. [myTracks](https://apps.apple.com/us/app/mytracks-the-gps-logger/id358697908) - GPS Logger
-1. [Gas Buddy](https://apps.apple.com/us/app/gasbuddy-find-pay-for-gas/id406719683)
+1. [Gas Buddy](https://apps.apple.com/us/app/gasbuddy-find-pay-for-gas/id406719683) - Gas Prices
 1. [Maps](#)
 1. [Uber](#)
 1. [Lyft](#)
-1. [Waze](#)
+1. [Waze](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106) - GPS for travel
 1. [Compass](#)
 2. [AllTrails](https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943) - Hike, Bike, and Run
+3. [Google Earth](https://apps.apple.com/us/app/google-earth/id293622097)
 
 ### Weather
 
