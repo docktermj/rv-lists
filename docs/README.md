@@ -6,4 +6,4 @@
 1. [Repair](repair.md)
 1. [Sites](sites.md)
 1. [YouTube videos](youtube.md)
-2. [map](map.html)
+1. [Points of Interest](points-of-interest.html)
