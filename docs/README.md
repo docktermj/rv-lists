@@ -7,4 +7,5 @@
 1. [Sites](sites.md)
 1. [YouTube videos](youtube.md)
 1. [Points of Interest](points-of-interest.html)
-1. [Gas stations](gas-stations.html)
+1. Gas stations
+    1. [Costco Gas](https://www.google.com/maps/d/edit?mid=1AyGlqMu2TgSCLhNnrN5G9WcpyiSFOyQ&usp=sharing)
